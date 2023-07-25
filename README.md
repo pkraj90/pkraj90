@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rajkumar
+- 👋 Hi, This is Rajkumar
 - 👀 I’m interested in MERN STOCK
 - 🌱 I’m currently learning Full Stack Development
 - 📫 How to reach me Raj@rkinterglobe.com
